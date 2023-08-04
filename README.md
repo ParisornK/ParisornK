@@ -4,7 +4,7 @@ I particularly interested in Hardware and Software . And now I am (Newbie) Devel
 Besides that I'm music addictist :notes:
 
 # Experience
-- Database developer
+- Full-stack Developer
 	> Create UI website pages based on user <br>
 	> Coding a system for the website , Call Api with Javascript <br>
 	> Create Api for front-end by postman And query Jasper report <br>
