@@ -14,10 +14,11 @@ Besides that I'm music addictist :notes:
 - Thesis
   > Researched the working of pir sensor and developed using C++ language with Arduino IDE to detect humans and to reduce accidents
 	
-# languages
+# languages & skills
   > HTML <br>
   > CSS<br>
   > Javascript<br>
+  > Jquery<br>
   > SQL<br>
   > Ajax<br>
   > Kubenetes<br>
