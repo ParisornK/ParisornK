@@ -19,9 +19,11 @@ Besides that I'm music addictist :notes:
   > CSS<br>
   > Javascript<br>
   > SQL<br>
+  > Ajax<br>
   > Kubenetes<br>
   > C++<br>
   > C<br>
+  > Bootstrap<br>
 # Contact
   [Facebook](https://www.facebook.com/fha.onsen)  
   [Page](https://www.facebook.com/Parisorn.K/)
