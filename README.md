@@ -7,9 +7,9 @@ Besides that I'm music addictist :notes:
 - Full-stack Developer
 	> Create UI website pages based on user <br>
 	> Coding a system for the website , Call Api with Javascript <br>
-	> Create Api for front-end by postman And query Jasper report <br>
+	> Create Api for front-end and query Jasper report <br>
 	> Create and maintain database structures , DBRMS <br>
-	> Deployment on UAT Production by Kubernetes<br>
+	> Deployment on Production by Kubernetes CI/CD<br>
 	> Logging and debugging<br>
 - Thesis
   > Researched the working of pir sensor and developed using C++ language with Arduino IDE to detect humans and to reduce accidents
@@ -22,6 +22,7 @@ Besides that I'm music addictist :notes:
   > SQL<br>
   > Ajax<br>
   > Kubenetes<br>
+  > CI/CD<br>
   > C++<br>
   > C<br>
   > Bootstrap<br>
