@@ -9,7 +9,7 @@ Besides that I'm music addictist :notes:
 	> Coding a system for the website , Call Api with Javascript <br>
 	> Create Api for front-end and query Jasper report <br>
 	> Create and maintain database structures , DBRMS <br>
-	> Deployment on Production by Kubernetes CI/CD<br>
+	> Deployment on Production CI/CD<br>
 	> Logging and debugging<br>
 - Thesis
   > Researched the working of pir sensor and developed using C++ language with Arduino IDE to detect humans and to reduce accidents
